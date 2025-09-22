@@ -1,0 +1,7 @@
+AtomicNumber,Symbol,Name,AtomicMass,ElectronConfiguration,Electronegativity,AtomicRadius,GroupBlock
+4,Be,Beryllium,9.012183,[He]2s2,1.57,153,Alkaline earth metal
+12,Mg,Magnesium,24.305,[Ne]3s2,1.31,173,Alkaline earth metal
+20,Ca,Calcium,40.08,[Ar]4s2,1,231,Alkaline earth metal
+38,Sr,Strontium,87.62,[Kr]5s2,0.95,249,Alkaline earth metal
+56,Ba,Barium,137.33,[Xe]6s2,0.89,268,Alkaline earth metal
+88,Ra,Radium,226.02541,[Rn]7s2,0.9,283,Alkaline earth metal

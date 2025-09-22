@@ -1,0 +1,7 @@
+AtomicNumber,Symbol,Name,AtomicMass,ElectronConfiguration,Electronegativity,AtomicRadius,GroupBlock
+3,Li,Lithium,7,[He]2s1,0.98,182,Alkali metal
+11,Na,Sodium,22.9897693,[Ne]3s1,0.93,227,Alkali metal
+19,K,Potassium,39.0983,[Ar]4s1,0.82,275,Alkali metal
+37,Rb,Rubidium,85.468,[Kr]5s1,0.82,303,Alkali metal
+55,Cs,Cesium,132.905452,[Xe]6s1,0.79,343,Alkali metal
+87,Fr,Francium,223.01973,[Rn]7s1,0.7,348,Alkali metal

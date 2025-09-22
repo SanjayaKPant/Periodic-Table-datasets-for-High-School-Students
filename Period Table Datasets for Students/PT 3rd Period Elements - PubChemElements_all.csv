@@ -1,0 +1,9 @@
+AtomicNumber,Symbol,Name,AtomicMass,ElectronConfiguration,Electronegativity,AtomicRadius,GroupBlock
+11,Na,Sodium,22.9897693,[Ne]3s1,0.93,227,Alkali metal
+12,Mg,Magnesium,24.305,[Ne]3s2,1.31,173,Alkaline earth metal
+13,Al,Aluminum,26.981538,[Ne]3s2 3p1,1.61,184,Post-transition metal
+14,Si,Silicon,28.085,[Ne]3s2 3p2,1.9,210,Metalloid
+15,P,Phosphorus,30.973762,[Ne]3s2 3p3,2.19,180,Nonmetal
+16,S,Sulfur,32.07,[Ne]3s2 3p4,2.58,180,Nonmetal
+17,Cl,Chlorine,35.45,[Ne]3s2 3p5,3.16,175,Halogen
+18,Ar,Argon,39.9,[Ne]3s2 3p6,,188,Noble gas

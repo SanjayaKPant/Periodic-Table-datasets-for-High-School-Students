@@ -1,0 +1,6 @@
+AtomicNumber,Symbol,Name,AtomicMass,ElectronConfiguration,Electronegativity,AtomicRadius,GroupBlock
+9,F,Fluorine,18.99840316,[He]2s2 2p5,3.98,135,Halogen
+17,Cl,Chlorine,35.45,[Ne]3s2 3p5,3.16,175,Halogen
+35,Br,Bromine,79.9,[Ar]4s2 3d10 4p5,2.96,183,Halogen
+53,I,Iodine,126.9045,[Kr]5s2 4d10 5p5,2.66,198,Halogen
+85,At,Astatine,209.98715,[Xe]6s2 4f14 5d10 6p5,2.2,202,Halogen
